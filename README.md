@@ -29,7 +29,8 @@ Crear un modelo que prediga si un paciente será re-hospitalizado en los siguien
 
 ## Descubrimientos clave
 
-- Características más importantes para la predicción
+**Características más importantes para la predicción**
+
 ![alt text](main_features.png)
 
 ## Resultados
